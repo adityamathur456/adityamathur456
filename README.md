@@ -303,26 +303,14 @@ I'm a full-stack developer with a keen interest in cloud-native architecture, ma
 
 ---
 
-- **GitHub**: [adityamathur456](https://github.com/adityamathur456)
-- **LinkedIn**: [Profile](https://linkedin.com/in/adityamathur456)
-
+- **CodeStudio**: [adityamathur456](https://www.naukri.com/code360/profile/AdityaMathur456)
 ---
 
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate, discuss tech, and explore new opportunities:
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityamathur456)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamathur456)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.mathur456@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityamathur456&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamathur456&layout=compact&theme=dark)
 
 ---
 
