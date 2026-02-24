@@ -1,4 +1,3 @@
-# Hey there! 👋 I'm Aditya Mathur
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **AI/ML Engineer** dedicated to building scalable systems and intelligent solutions that solve real-world problems.
 
