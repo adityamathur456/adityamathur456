@@ -12,8 +12,8 @@ I'm a full-stack developer with a keen interest in cloud-native architecture, ma
 **Currently:** 
 - 🔬 Focusing on advanced **AI/ML** concepts and applications
 - 🏗️ Mastering **Spring Boot** and **Spring Cloud** for enterprise applications
-- 🐍 Building APIs with **Python Flask** and **FastAPI** for AI/ML models
-- 💪 Strengthening **Data Structures & Algorithms (DSA)** fundamentals in Java and Python
+- 🐍 Building APIs with **SpringAI** and  **FastAPI** for LLM and AI Agents
+- 💪 Strengthening **Data Structures & Algorithms (DSA)** fundamentals in Java, C++
 
 ---
 
@@ -21,18 +21,18 @@ I'm a full-stack developer with a keen interest in cloud-native architecture, ma
 
 **Roles & Expertise:**
 - **Software Engineer** - Building scalable, maintainable, and high-performance applications
-- **AI/ML Engineer** - Developing machine learning models and intelligent systems
+- **AI/ML Engineer** - Developing machine learning models, Agents and intelligent systems
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python, JavaScript, C++, C#
-- **Databases**: SQL, Redis, Postgres, MongoDB, CassandraDB
-- **Cloud Platforms**: AWS, Google Cloud
-- **Tools**: Git, Docker, Kubernetes
-- **Development**: REST APIs, microservices, event-driven systems
-- **Backend-Frameworks**: SpringBoot, Node.js, FastAPI, Flask
+- **Languages**: Java, Python, JavaScript
+- **Databases**: SQL, Redis, Postgres, MongoDB
+- **Cloud Platforms**: AWS, Google Cloud Platform, Cloudflare
+- **DevOps & Tools**: Git, Docker, Kubernetes, GitHub Actions, Jenkins
+- **Architecture & Development**: REST APIs, gRPC microservices, event-driven systems, Distributed Systems
+- **Backend-Frameworks**: SpringBoot, Node.js, FastAPI
 - **Frontend-Frameworks**: React.js
 
 ---
@@ -56,21 +56,21 @@ I'm a full-stack developer with a keen interest in cloud-native architecture, ma
 
 ## 📝 Core Focus Areas
 
-- Implementing production-ready ML pipelines
-- Designing scalable microservices with Spring Cloud
-- Building high-performance REST APIs with FastAPI
-- Contributing to open-source projects
-- Solving complex algorithmic problems
+- Architecting and building production-ready AI systems and enterprise SaaS applications
+- Designing resilient microservices and distributed systems using Spring Cloud and FastAPI
+- Developing high-performance REST and gRPC APIs with Spring Boot and FastAPI
+- Solving complex algorithmic and system design problems
 
 ---
 
 ## 🎓 Continuous Learning
 
-I believe in lifelong learning and stay updated with:
-- Latest AI/ML research papers and implementations
-- Cloud-native architecture patterns
-- Industry best practices and trends
-- Competitive programming challenges
+I continuously stay updated with:
+- Latest AI/ML research, including LLMs, Transformers, AI Agents, and practical implementations
+- Scalable software architecture and cloud-native technologies
+- Backend engineering best practices
+- Emerging industry trends in AI and SaaS development
+- Competitive programming and advanced algorithms
 
 ---
 
