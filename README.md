@@ -31,7 +31,7 @@ I'm a full-stack developer with a keen interest in cloud-native architecture, ma
 - **Databases**: SQL, Redis, Postgres, MongoDB
 - **Cloud Platforms**: AWS, Google Cloud Platform, Cloudflare
 - **DevOps & Tools**: Git, Docker, Kubernetes, GitHub Actions, Jenkins
-- **Architecture & Development**: REST APIs, gRPC microservices, event-driven systems, Distributed Systems
+- **Architecture & Development**: REST APIs, gRPC, microservices, event-driven systems, Distributed Systems
 - **Backend-Frameworks**: SpringBoot, Node.js, FastAPI
 - **Frontend-Frameworks**: React.js
 
